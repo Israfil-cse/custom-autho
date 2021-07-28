@@ -1,0 +1,25 @@
+
+form{
+    margin-top: 50px;
+    
+}
+form .form-control{
+    padding: 15px 25px;
+    width: 500px;
+    border: none;
+    border-radius:10px;
+    box-shadow:2px 3px 10px gray;
+
+
+}
+.submit-controll{
+    padding: 15px 30px;
+    width: 250px;
+    border: none;
+    border-radius:10px;
+    box-shadow:2px 3px 10px gray;
+}
+form input:focus{
+    border: 1px solid blue;
+    outline: none;
+}
